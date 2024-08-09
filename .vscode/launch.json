@@ -1,0 +1,84 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Day10",
+      "request": "launch",
+      "mainClass": "Day10",
+      "projectName": "Java_7badd0ae"
+    },
+    {
+      "type": "java",
+      "name": "Day9",
+      "request": "launch",
+      "mainClass": "Day9",
+      "projectName": "Java_7badd0ae"
+    },
+    {
+      "type": "java",
+      "name": "Day8",
+      "request": "launch",
+      "mainClass": "Day8",
+      "projectName": "Java_7badd0ae"
+    },
+    {
+      "type": "java",
+      "name": "Day7",
+      "request": "launch",
+      "mainClass": "Day7",
+      "projectName": "Java_7badd0ae"
+    },
+    {
+      "type": "java",
+      "name": "Day6",
+      "request": "launch",
+      "mainClass": "Day6",
+      "projectName": "Java_7badd0ae"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Day1",
+      "request": "launch",
+      "mainClass": "Day1",
+      "projectName": "Java_7badd0ae"
+    },
+    {
+      "type": "java",
+      "name": "Day2",
+      "request": "launch",
+      "mainClass": "Day2",
+      "projectName": "Java_7badd0ae"
+    },
+    {
+      "type": "java",
+      "name": "Day3",
+      "request": "launch",
+      "mainClass": "Day3",
+      "projectName": "Java_7badd0ae"
+    },
+    {
+      "type": "java",
+      "name": "Exam",
+      "request": "launch",
+      "mainClass": "Exam",
+      "projectName": "Java_7badd0ae"
+    },
+    {
+      "type": "java",
+      "name": "Smiley",
+      "request": "launch",
+      "mainClass": "Smiley",
+      "projectName": "Java_7badd0ae"
+    }
+  ]
+}
